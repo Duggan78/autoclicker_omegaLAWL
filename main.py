@@ -9,7 +9,7 @@ clicks = 0
 if keyboard.read_key('p'):
     press_true = 'true'
     if press_true == 'true':
-        while press_true == 'true' and clicks >= 100:
+        while press_true == 'true' and clicks <= 100:
             mouse.click('left')
             clicks = clicks + 1
             print(int(clicks))
