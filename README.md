@@ -1,5 +1,5 @@
 # autoclicker_omegaLAWL
- A autoclicker because... well... why else?
+ An autoclicker because... well... why else?
  
  
  
